@@ -1,0 +1,36 @@
+h1,p{
+    text-align: center;
+}
+
+.imagenes{
+    width: 200px;
+}
+.contenido{
+    display:flex;
+    justify-content: center;
+    background-color: rgb(238, 225, 105);
+    gap: 10%;
+    padding: 20px;
+    width: 1000px;
+    margin-left: 400px;
+}
+.movibles{
+    display: flex;
+    justify-content: center;
+    gap:10%;
+    background-color: rgb(129, 102, 155);
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 1000px;
+    margin-left: 400px;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+    background-color:rgb(118, 172, 156);
+    gap: 10%;
+    padding: 20px;
+    width: 1000px;
+    margin-left: 400px;
+}
